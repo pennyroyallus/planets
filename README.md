@@ -1,3 +1,3 @@
 # planets
-This is the README file \n
-This is an empty redpository 
+<This is the README file>
+<This is an empty repository>
